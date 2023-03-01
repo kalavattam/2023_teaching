@@ -320,6 +320,26 @@ done
 ###### *More details*
 <a id="examples-9"></a>
 ###### *Examples*
+<details>
+<summary><i>Code: </i></summary>
+
+```bash
+#!/bin/bash
+#DONTRUN #CONTINUE
+
+
+```
+</details>
+<br />
+
+<details>
+<summary><i>Printed: </i></summary>
+
+```txt
+
+```
+</details>
+<br />
 
 <a id="downloading-files-with-the-wget-and-curl-commands"></a>
 ##### <u>Downloading files with the `wget` and `curl` commands</u>
